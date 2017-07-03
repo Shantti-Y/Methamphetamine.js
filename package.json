@@ -1,0 +1,20 @@
+{
+  "name": "methamphetamine.js",
+  "version": "0.0.1",
+  "description": "Picking up chemical elements in your HTML",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Shantti-Y/Methamphetamine.js.git"
+  },
+  "author": "Shantti-Y (Takahiro Yoshioka)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shantti-Y/Methamphetamine.js/issues"
+  },
+  "homepage": "https://github.com/Shantti-Y/Methamphetamine.js#readme",
+  "private": false
+}
